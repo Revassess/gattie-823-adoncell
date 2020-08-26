@@ -22,7 +22,7 @@ public class ConnectionUtil {
 	// add your jdbc password
 	public static final String PASSWORD = "RevatureEngineer153";
 	// name of the created stored procedure in tier 3
-	public static final String TIER_3_PROCEDURE_NAME = "";
+	public static final String TIER_3_PROCEDURE_NAME = "ThreeInts";
 	// name of the created sequence in tier 3
 	public static final String TIER_3_SEQUENCE_NAME = "UpByThree";
 
